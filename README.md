@@ -17,7 +17,7 @@ Helps identify unhealthy conditions early
 
 Supports informed decision-making for irrigation and care
 
-🎯 Key Objectives
+Key Objectives
 
 Monitor critical plant growth parameters
 
